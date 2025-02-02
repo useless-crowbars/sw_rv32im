@@ -1,0 +1,12 @@
+[submodule "doom_rv32i"]
+	path = doom_rv32i
+	url = git@github.com:useless-crowbars/doom_rv32i.git
+[submodule "mif_maker"]
+	path = mif_maker
+	url = git@github.com:useless-crowbars/mif_maker.git
+[submodule "emu_rv32i"]
+	path = emu_rv32i
+	url = git@github.com:useless-crowbars/emu_rv32i.git
+[submodule "rpi_bootstrap"]
+	path = rpi_bootstrap
+	url = git@github.com:useless-crowbars/rpi_bootstrap.git
